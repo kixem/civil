@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?9l6y84');
+  src:  url('../fonts/icomoon.eot?9l6y84#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?9l6y84') format('truetype'),
+    url('../fonts/icomoon.woff?9l6y84') format('woff'),
+    url('../fonts/icomoon.svg?9l6y84#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-d-building:before {
+  content: "\e900";
+}
+.icon-add-comment-button:before {
+  content: "\e901";
+}
+.icon-blueprint:before {
+  content: "\e902";
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-calendar-with-a-clock-time-tools:before {
+  content: "\e904";
+}
+.icon-close-envelope:before {
+  content: "\e905";
+}
+.icon-comments:before {
+  content: "\e906";
+}
+.icon-double-door-opened:before {
+  content: "\e907";
+}
+.icon-drawing-house-plan:before {
+  content: "\e908";
+}
+.icon-economic-architecture-building-of-stacked-containers:before {
+  content: "\e909";
+}
+.icon-engineer:before {
+  content: "\e90a";
+}
+.icon-eye:before {
+  content: "\e90b";
+}
+.icon-factory-stock-house:before {
+  content: "\e90c";
+}
+.icon-first-prize-trophy:before {
+  content: "\e90d";
+}
+.icon-house:before {
+  content: "\e90e";
+}
+.icon-interior-design:before {
+  content: "\e90f";
+}
+.icon-left-quotes-sign:before {
+  content: "\e910";
+}
+.icon-locked:before {
+  content: "\e911";
+}
+.icon-magnifying-glass:before {
+  content: "\e912";
+}
+.icon-medal:before {
+  content: "\e913";
+}
+.icon-phone-auricular-with-high-volume:before {
+  content: "\e914";
+}
+.icon-placeholder-point:before {
+  content: "\e915";
+}
+.icon-printer:before {
+  content: "\e916";
+}
+.icon-repair-mechanism:before {
+  content: "\e917";
+}
+.icon-right-arrow-(1):before {
+  content: "\e918";
+}
+.icon-security-on:before {
+  content: "\e919";
+}
+.icon-share:before {
+  content: "\e91a";
+}
+.icon-shield:before {
+  content: "\e91b";
+}
+.icon-shopping-cart:before {
+  content: "\e91c";
+}
+.icon-speedometer:before {
+  content: "\e91d";
+}
+.icon-toolbox:before {
+  content: "\e91e";
+}
+.icon-tool-button:before {
+  content: "\e91f";
+}
+.icon-window:before {
+  content: "\e920";
+}
+.icon-worker-of-construction-working-with-a-shovel-beside-material-pile:before {
+  content: "\e921";
+}
